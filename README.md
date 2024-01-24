@@ -1,5 +1,5 @@
 ### Greetings
-I am a first-course student at Kyiv Polytechnic Institute.
+I am a first-course student at Igor Sikorsky Kyiv Polytechnic Institute.
 
 My goal is to become an experienced developer.
 
