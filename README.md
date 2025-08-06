@@ -1,6 +1,3 @@
 ### Greetings
-I am a second-course student at Igor Sikorsky Kyiv Polytechnic Institute.
-
-My goal is to achieve experience as a developer.
-
-Right now I'm not working on anything special and just learning computer science.
+I'm a third-year student at Igor Sikorsky Kyiv Polytechnic Institute, currently working as a Fullstack .NET & Angular Developer.
+Passionate about building scalable web applications and continuously improving my skills in software development.
